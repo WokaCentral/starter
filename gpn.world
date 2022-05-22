@@ -1,0 +1,27 @@
+{
+    "maps": [
+        {
+            "fileName": "map.json",
+            "height": 672,
+            "width": 992,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "fileName": "lageplan.json",
+            "height": 1376,
+            "width": 3200,
+            "x": 992,
+            "y": 0
+        },
+        {
+            "fileName": "gpn20.json",
+            "height": 1056,
+            "width": 1056,
+            "x": 4192,
+            "y": 0
+        }
+    ],
+    "onlyShowAdjacentMaps": false,
+    "type": "world"
+}
